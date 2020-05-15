@@ -6,6 +6,6 @@
     }
   ],
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://creative-hawk-ti3oiw-dev-ed.my.salesforce.com/",
   "sourceApiVersion": "48.0"
 }
