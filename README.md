@@ -1,5 +1,5 @@
 # Salesforce Journey
-### Documenting my progress in Salesforce Developer training 
+### Documenting my progress in Salesforce Development
 [Trailblazer Profile](https://trailblazer.me/id/jc27)
 
 - [ ] [Build Your First Application with Lightning Web Components Open Source](https://trailhead.salesforce.com/content/learn/projects/build-your-first-app-with-lightning-web-components-open-source?&utm_source=trailhead&utm_medium=web-landing-page&utm_campaign=salesforce_javascript_developers&utm_content=lwc_open_source_trailhead_project) 
