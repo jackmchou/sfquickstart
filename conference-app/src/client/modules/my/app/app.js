@@ -2,6 +2,17 @@ import { LightningElement } from 'lwc';
 
 export default class App extends LightningElement {
   sessionId;
+  state;
+  constructor() {
+    super();
+    this.state = 'list';
+    window.history.replaceState('list', null, '');
+    window.onpopstate = event => {
+      if (event.state) {
+        this.state = event.state;
+      }
+    };
+  }
   handleNavigate(event) {
     this.sessionId = event.detail;
   }
