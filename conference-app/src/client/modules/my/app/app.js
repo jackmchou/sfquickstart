@@ -15,5 +15,13 @@ export default class App extends LightningElement {
   }
   handleNavigate(event) {
     this.sessionId = event.detail;
+    this.state = 'details';
+    window.history.pushState('details', null);
+  }
+  get isStateList() {
+    return this.state === 'list';
+  }
+  get isStateDetails() {
+    return this.state === 'details';
   }
 }
