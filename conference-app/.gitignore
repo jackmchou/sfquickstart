@@ -12,6 +12,7 @@ logs
 
 # Tooling files
 node_modules
+.env
 
 # Temp directory
 /tmp
