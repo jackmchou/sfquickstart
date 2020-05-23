@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://creative-hawk-ti3oiw-dev-ed.my.salesforce.com/",
+  "sourceApiVersion": "48.0"
+}
