@@ -1,8 +1,3 @@
-:host {
-  margin: 0.5rem;
-  flex: 1;
-  color: #080707;
-}
 .card {
   border: 1px solid #dddbda;
   border-radius: 0.25rem;
