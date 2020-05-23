@@ -5,11 +5,11 @@
     </header>
     <main class="content">
         <template if:true={isStateList}>
-            <my-session-list onnavigate={handleNavigate}></my-session-list>
+            <c-session-list onnavigate={handleNavigate}></c-session-list>
         </template>
         <template if:true={isStateDetails}>
-            <my-session-details session-id={sessionId}>
-            </my-session-details>
+            <c-session-details session-id={sessionId}>
+            </c-session-details>
         </template>
     </main>
 </template>

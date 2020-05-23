@@ -8,8 +8,8 @@
     <div class="speaker-list">
       <template if:true={session.speakers}>
         <template for:each={session.speakers} for:item="speaker">
-          <my-speaker-card key={speaker.id} speaker={speaker}>
-          </my-speaker-card>
+          <c-speaker-card key={speaker.id} speaker={speaker}>
+          </c-speaker-card>
         </template>
       </template>
     </div>
