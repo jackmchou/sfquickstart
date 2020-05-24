@@ -6,7 +6,7 @@
 
 - [X] [Access Salesforce Data with Lightning Web Components Open Source](https://trailhead.salesforce.com/en/content/learn/projects/access-salesforce-data-with-lightning-web-components-open-source?trail_id=build-apps-lightning-web-components-open-source) - [Completed](https://github.com/jackmchou/sfquickstart/pull/10) 5/20/20
 
-- [ ] [Convert Lightning Web Components Open Source to Salesforce](https://trailhead.salesforce.com/en/content/learn/projects/convert-lightning-web-components-open-source-to-salesforce?trail_id=build-apps-lightning-web-components-open-source)
+- [X] [Convert Lightning Web Components Open Source to Salesforce](https://trailhead.salesforce.com/en/content/learn/projects/convert-lightning-web-components-open-source-to-salesforce?trail_id=build-apps-lightning-web-components-open-source) [Completed](https://github.com/jackmchou/sfquickstart/pull/12) 5/24/20
 
 - [ ] [Find and Fix Bugs with Apex Replay Debugger](https://trailhead.salesforce.com/en/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger)
 - [ ] [Package.xml Metadata Management](https://trailhead.salesforce.com/en/content/learn/modules/package-xml)
