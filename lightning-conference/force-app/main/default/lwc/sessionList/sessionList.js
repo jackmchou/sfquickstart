@@ -13,10 +13,12 @@ export default class SessionList extends LightningElement {
     }
   }
   handleSearchKeyInput(event) {
-    const searchKey = event.target.value.toLowerCase();
-    this.sessions = this.allSessions.filter(
-      session => session.name.toLowerCase().includes(searchKey)
-    );
+    clearTimeout(this.delayTimeout);
+    const searchKey = event.target.value;
+    // eslint-disable-next-line @lwc/lwc/no-async-operation
+    this.delayTimeout = setTimeout(() => {
+        this.searchKey = searchKey;
+    }, 300);
   }
   handleSessionClick(event) {
     const index = event.currentTarget.dataset.index;
