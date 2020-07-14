@@ -1,7 +1,8 @@
 # Salesforce Journey
-### Documenting my progress in Salesforce Development
-[Trailblazer Profile](https://trailblazer.me/id/jc27)
+### [Progress in Salesforce Development](https://trailblazer.me/id/jc27)
+## Superbadges
 
+## Modules Completed
 - [X] [Build Your First Application with Lightning Web Components Open Source](https://trailhead.salesforce.com/content/learn/projects/build-your-first-app-with-lightning-web-components-open-source?&utm_source=trailhead&utm_medium=web-landing-page&utm_campaign=salesforce_javascript_developers&utm_content=lwc_open_source_trailhead_project) - [Completed](https://github.com/jackmchou/sfquickstart/pull/8) 5/18/20
 
 - [X] [Access Salesforce Data with Lightning Web Components Open Source](https://trailhead.salesforce.com/en/content/learn/projects/access-salesforce-data-with-lightning-web-components-open-source?trail_id=build-apps-lightning-web-components-open-source) - [Completed](https://github.com/jackmchou/sfquickstart/pull/10) 5/20/20
