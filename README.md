@@ -17,7 +17,7 @@
 
 - [ ] [Process Automation Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)
 - [ ] Build Flow to map out processes
-- [ ] Automate Renewals
+- [X] Automate Renewals - Completed 6/26/20 ![Auto Renewal](images/autorenewal.png) 
+- [X] Automate Member Resignation - Completed 7/13/20 ![Auto Resign](images/autoresign.png)
 - [ ] Automate New Member Onboard
-- [ ] Automate Member Resignation
 - [ ] Mimick ENsight
