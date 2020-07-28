@@ -13,9 +13,11 @@
 - [ ] [Package.xml Metadata Management](https://trailhead.salesforce.com/en/content/learn/modules/package-xml)
 
 - [ ] [Lightning Web Components Basics](https://trailhead.salesforce.com/en/content/learn/modules/lightning-web-components-basics)
+
 - [ ] [Apex Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
 
 - [ ] [Process Automation Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)
+
 - [ ] Build Flow to map out processes
 - [X] Automate Renewals - Completed 6/26/20 ![Auto Renewal](images/autorenewal.png) 
 - [X] Automate Member Resignation - Completed 7/13/20 ![Auto Resign](images/autoresign.png)
