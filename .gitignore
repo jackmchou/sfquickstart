@@ -6,6 +6,9 @@
 .sfdx/
 .localdevserver/
 
+# ENStuff
+.ENdocs/
+
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
 
@@ -24,9 +27,6 @@ node_modules/
 
 # Eslint cache
 .eslintcache
-
-#ENStuff
-ENdocs/
 
 # MacOS system files
 .DS_Store
