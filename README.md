@@ -18,7 +18,7 @@
 |:black_square_button:|          |[Package.xml Metadata Management](https://trailhead.salesforce.com/en/content/learn/modules/package-xml)|
 |:black_square_button:|          |[Lightning Web Components Basics](https://trailhead.salesforce.com/en/content/learn/modules/lightning-web-components-basics)|
 |:black_square_button:|          ||
-|:black_square_button:|          |[Leads & Opportunities for Lightning Experience](https://trailhead.salesforce.com/en/content/learn/modules/leads_opportunities_lightning_experience)|
+|:white_check_mark:|8/20/20|[Leads & Opportunities for Lightning Experience](https://trailhead.salesforce.com/en/content/learn/modules/leads_opportunities_lightning_experience)|
 |:white_check_mark:|8/19/20|[Lightning Flow](https://trailhead.salesforce.com/content/learn/modules/business_process_automation)|
 |:white_check_mark:|5/24/20|[Convert Lightning Web Components Open Source to Salesforce](https://trailhead.salesforce.com/en/content/learn/projects/convert-lightning-web-components-open-source-to-salesforce?trail_id=build-apps-lightning-web-components-open-source) - [PR Details](https://github.com/jackmchou/sfquickstart/pull/12)|
 |:white_check_mark:|5/20/20|[Access Salesforce Data with Lightning Web Components Open Source](https://trailhead.salesforce.com/en/content/learn/projects/access-salesforce-data-with-lightning-web-components-open-source?trail_id=build-apps-lightning-web-components-open-source) - [PR Details](https://github.com/jackmchou/sfquickstart/pull/10)|
