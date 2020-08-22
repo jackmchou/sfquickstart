@@ -12,11 +12,13 @@
 - [X] Automate New Member Onboard - Partial Completed 8/15/20 ![Auto New Member](images/autonew.png)
 
 ## Modules Completed
-|Complete             |Date      |Module Name|
+|Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
 |:black_square_button:|          |[Find and Fix Bugs with Apex Replay Debugger](https://trailhead.salesforce.com/en/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger)|
 |:black_square_button:|          |[Package.xml Metadata Management](https://trailhead.salesforce.com/en/content/learn/modules/package-xml)|
 |:black_square_button:|          |[Lightning Web Components Basics](https://trailhead.salesforce.com/en/content/learn/modules/lightning-web-components-basics)|
+|:white_check_mark:|8/22/20|[Automate Accounts](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
+|:white_check_mark:|8/21/20|[Automate Leads](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
 |:white_check_mark:|8/21/20|[Trailhead Playground Management](https://trailhead.salesforce.com/content/learn/modules/trailhead_playground_management)|
 |:white_check_mark:|8/20/20|[Workflow Rule Migration](https://trailhead.salesforce.com/en/content/learn/modules/workflow_migration)|
 |:white_check_mark:|8/20/20|[Leads & Opportunities for Lightning Experience](https://trailhead.salesforce.com/en/content/learn/modules/leads_opportunities_lightning_experience)|
