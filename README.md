@@ -4,7 +4,7 @@
 ## Superbadges
 - [ ] [Lightning Web Components Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_lwc_specialist)
 - [ ] [Apex Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
-- [ ] [Process Automation Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)
+- [x] [Process Automation Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation) - Completd 8/24/20
 
 ## Optimized Business Processes
 - [X] Automate Renewals - Completed 6/26/20 ![Auto Renewal](images/autorenewal.png) 
@@ -17,6 +17,7 @@
 |:black_square_button:|          |[Find and Fix Bugs with Apex Replay Debugger](https://trailhead.salesforce.com/en/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger)|
 |:black_square_button:|          |[Package.xml Metadata Management](https://trailhead.salesforce.com/en/content/learn/modules/package-xml)|
 |:black_square_button:|          |[Lightning Web Components Basics](https://trailhead.salesforce.com/en/content/learn/modules/lightning-web-components-basics)|
+|:white_check_mark:|8/24/20|[Automate Setup](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
 |:white_check_mark:|8/24/20|[Create Flow for Opportunities](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
 |:white_check_mark:|8/24/20|[Automate Opportunities](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
 |:white_check_mark:|8/23/20|[Create Sales Process and Validate Opportunities](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation) - [PR Details](https://github.com/jackmchou/sfquickstart/pull/16)|
