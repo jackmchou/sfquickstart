@@ -17,8 +17,9 @@
 |:black_square_button:|          |[Find and Fix Bugs with Apex Replay Debugger](https://trailhead.salesforce.com/en/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger)|
 |:black_square_button:|          |[Package.xml Metadata Management](https://trailhead.salesforce.com/en/content/learn/modules/package-xml)|
 |:black_square_button:|          |[Lightning Web Components Basics](https://trailhead.salesforce.com/en/content/learn/modules/lightning-web-components-basics)|
-|:white_check_mark:|8/26/20|[Write SOQL Queries](https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_soql?trail_id=force_com_dev_beginner)
-|:white_check_mark:|8/26/20|[Manipulate Records with DML](https://trailhead.salesforce.com/en/content/learn/modules/apex_database/apex_database_dml?trail_id=force_com_dev_beginner)
+|:white_check_mark:|8/26/20|[Apex Basics & Database](https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_sosl?trail_id=force_com_dev_beginner)|
+|:white_check_mark:|8/26/20|[Write SOQL Queries](https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_soql?trail_id=force_com_dev_beginner)|
+|:white_check_mark:|8/26/20|[Manipulate Records with DML](https://trailhead.salesforce.com/en/content/learn/modules/apex_database/apex_database_dml?trail_id=force_com_dev_beginner)|
 |:white_check_mark:|8/25/20|[Automate Setup](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation) - [PR Detail](https://github.com/jackmchou/sfquickstart/pull/18)|
 |:white_check_mark:|8/24/20|[Create Flow for Opportunities](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
 |:white_check_mark:|8/24/20|[Automate Opportunities](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
