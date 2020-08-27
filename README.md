@@ -2,9 +2,9 @@
 ### [Progress in Salesforce Development](https://trailblazer.me/id/jc27)
 
 ## Superbadges
-- [ ] [Lightning Web Components Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_lwc_specialist)
+- [x] [Process Automation Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation) - [Completd](https://github.com/jackmchou/sfquickstart/pull/17) 8/24/20
 - [ ] [Apex Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
-- [x] [Process Automation Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation) - Completd 8/24/20
+- [ ] [Lightning Web Components Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_lwc_specialist)
 
 ## Optimized Business Processes
 - [X] Automate Renewals - Completed 6/26/20 ![Auto Renewal](images/autorenewal.png) 
@@ -14,12 +14,13 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
+|:white_check_mark:|8/27/20|[Apex Triggers](https://trailhead.salesforce.com/content/learn/modules/apex_triggers?trail_id=force_com_dev_beginner)
 |:white_check_mark:|8/26/20|[Get Started with Apex Triggers](https://trailhead.salesforce.com/en/content/learn/modules/apex_triggers/apex_triggers_intro?trail_id=force_com_dev_beginner)
 |:white_check_mark:|8/26/20|[Apex Basics & Database](https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_sosl?trail_id=force_com_dev_beginner)|
 |:white_check_mark:|8/26/20|[Write SOQL Queries](https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_soql?trail_id=force_com_dev_beginner)|
 |:white_check_mark:|8/26/20|[Manipulate Records with DML](https://trailhead.salesforce.com/en/content/learn/modules/apex_database/apex_database_dml?trail_id=force_com_dev_beginner)|
-|:white_check_mark:|8/25/20|[Get Started with Apex](https://trailhead.salesforce.com/en/content/learn/modules/apex_database/apex_database_intro?trail_id=force_com_dev_beginner)|
-|:white_check_mark:|8/24/20|[Automate Setup](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation) - [PR Detail](https://github.com/jackmchou/sfquickstart/pull/18)|
+|:white_check_mark:|8/25/20|[Get Started with Apex](https://trailhead.salesforce.com/en/content/learn/modules/apex_database/apex_database_intro?trail_id=force_com_dev_beginner)  - [PR Detail](https://github.com/jackmchou/sfquickstart/pull/18)|
+|:white_check_mark:|8/24/20|[Automate Setup](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
 |:white_check_mark:|8/24/20|[Create Flow for Opportunities](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
 |:white_check_mark:|8/24/20|[Automate Opportunities](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation)|
 |:white_check_mark:|8/23/20|[Create Sales Process and Validate Opportunities](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation) - [PR Details](https://github.com/jackmchou/sfquickstart/pull/16)|
