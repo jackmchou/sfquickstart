@@ -14,7 +14,8 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
-|:white_check_mark:|8/27/20|[Lightning Web Components Basics](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-basics/create-lightning-web-components)|
+|:white_check_mark:|8/29/20|[Use Lightning Data Service to Work with Data](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-and-salesforce-data)
+|:white_check_mark:|8/29/20|[Lightning Web Components Basics](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-basics/create-lightning-web-components)|
 |:white_check_mark:|8/27/20|[Apex Triggers](https://trailhead.salesforce.com/content/learn/modules/apex_triggers?trail_id=force_com_dev_beginner)
 |:white_check_mark:|8/26/20|[Get Started with Apex Triggers](https://trailhead.salesforce.com/en/content/learn/modules/apex_triggers/apex_triggers_intro?trail_id=force_com_dev_beginner)
 |:white_check_mark:|8/26/20|[Apex Basics & Database](https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_sosl?trail_id=force_com_dev_beginner)|
