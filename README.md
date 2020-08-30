@@ -3,8 +3,8 @@
 
 ## Superbadges
 - [x] [Process Automation Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_process_automation) - [Completd](https://github.com/jackmchou/sfquickstart/pull/17) 8/24/20
-- [ ] [Apex Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
 - [ ] [Lightning Web Components Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_lwc_specialist)
+- [ ] [Apex Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
 
 ## Optimized Business Processes
 - [X] Automate Renewals - Completed 6/26/20 ![Auto Renewal](images/autorenewal.png) 
@@ -14,6 +14,7 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
+|:white_check_mark:|8/30/20|
 |:white_check_mark:|8/29/20|[Lightning Web Components and Salesforce Data](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-and-salesforce-data)
 |:white_check_mark:|8/29/20|[Use Lightning Data Service to Work with Data](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-and-salesforce-data)
 |:white_check_mark:|8/29/20|[Lightning Web Components Basics](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-basics/create-lightning-web-components)|
