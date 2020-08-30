@@ -14,7 +14,7 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
-|:white_check_mark:|8/30/20|
+|:white_check_mark:|8/30/20|[Lightning Web Components Tests](https://trailhead.salesforce.com/en/content/learn/modules/test-lightning-web-components)
 |:white_check_mark:|8/29/20|[Lightning Web Components and Salesforce Data](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-and-salesforce-data)
 |:white_check_mark:|8/29/20|[Use Lightning Data Service to Work with Data](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-and-salesforce-data)
 |:white_check_mark:|8/29/20|[Lightning Web Components Basics](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-basics/create-lightning-web-components)|
