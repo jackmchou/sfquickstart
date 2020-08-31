@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://playful-raccoon-ew5jaa-dev-ed.lightning.force.com/",
+  "sourceApiVersion": "48.0"
+}
