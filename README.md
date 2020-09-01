@@ -14,6 +14,7 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
+|:white_check_mark:|8/31/20|[Get BoatDataService class ready for action](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_lwc_specialist)
 |:white_check_mark:|8/30/20|[Coding for Web Accessibility](https://trailhead.salesforce.com/content/learn/modules/coding-for-web-accessibility/write-accessible-components)
 |:white_check_mark:|8/30/20|[Lightning Web Components Tests](https://trailhead.salesforce.com/en/content/learn/modules/test-lightning-web-components)
 |:white_check_mark:|8/29/20|[Lightning Web Components and Salesforce Data](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-and-salesforce-data)
