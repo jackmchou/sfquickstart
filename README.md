@@ -14,6 +14,7 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
+|:white_check_mark:|9/2/20|[Data Security](https://trailhead.salesforce.com/content/learn/modules/data_security/data_security_sharing_rules)
 |:white_check_mark:|9/2/20|[Git and GitHub Basics](https://trailhead.salesforce.com/content/learn/modules/git-and-git-hub-basics)
 |:white_check_mark:|9/2/20|[Set Up Your Lightning Web Components Developer Tools](https://trailhead.salesforce.com/content/learn/projects/set-up-your-lightning-web-components-developer-tools?trailmix_creator_id=joseph&trailmix_slug=ethos-dev-2-tools)
 |:white_check_mark:|9/2/20|[Quick Start: Process Builder](https://trailhead.salesforce.com/content/learn/projects/quickstart-process-builder)
