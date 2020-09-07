@@ -14,6 +14,7 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
+|:white_check_mark:|9/7/20|[Scrum and Kanban at Salesforce](https://trailhead.salesforce.com/content/learn/modules/scrum-and-kanban-at-salesforce)
 |:white_check_mark:|9/7/20|[Salesforce Agile Basics](https://trailhead.salesforce.com/content/learn/modules/salesforce-agile-basics)
 |:white_check_mark:|9/7/20|[Organizational Alignment (V2MOM)](https://trailhead.salesforce.com/content/learn/modules/manage_the_sfdc_organizational_alignment_v2mom)
 |:white_check_mark:|9/6/20|[App Customization Lite](https://trailhead.salesforce.com/content/learn/modules/lex_migration_customization)
