@@ -14,8 +14,8 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
-
-|:white_check_mark:|9/7/20|[Manage the V2MOM](https://trailhead.salesforce.com/content/learn/modules/manage_the_sfdc_organizational_alignment_v2mom/msfw_oav2m_managing_to_the_v2mom)
+|:white_check_mark:|9/7/20|[Salesforce Agile Basics](https://trailhead.salesforce.com/content/learn/modules/salesforce-agile-basics)
+|:white_check_mark:|9/7/20|[Organizational Alignment (V2MOM)](https://trailhead.salesforce.com/content/learn/modules/manage_the_sfdc_organizational_alignment_v2mom)
 |:white_check_mark:|9/6/20|[App Customization Lite](https://trailhead.salesforce.com/content/learn/modules/lex_migration_customization)
 |:white_check_mark:|9/6/20|[Picklist Administration](https://trailhead.salesforce.com/content/learn/modules/picklist_admin)
 |:white_check_mark:|9/5/20|[Data Security](https://trailhead.salesforce.com/content/learn/modules/data_security/data_security_sharing_rules)
