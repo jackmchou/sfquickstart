@@ -14,7 +14,11 @@
 ## Modules Completed
 |Complete             |Date      |Module/Challenge Name|
 |:-------------------:|----------|-----------|
-|:white_check_mark:|9/2/20|[Data Security](https://trailhead.salesforce.com/content/learn/modules/data_security/data_security_sharing_rules)
+
+|:white_check_mark:|9/7/20|[Manage the V2MOM](https://trailhead.salesforce.com/content/learn/modules/manage_the_sfdc_organizational_alignment_v2mom/msfw_oav2m_managing_to_the_v2mom)
+|:white_check_mark:|9/6/20|[App Customization Lite](https://trailhead.salesforce.com/content/learn/modules/lex_migration_customization)
+|:white_check_mark:|9/6/20|[Picklist Administration](https://trailhead.salesforce.com/content/learn/modules/picklist_admin)
+|:white_check_mark:|9/5/20|[Data Security](https://trailhead.salesforce.com/content/learn/modules/data_security/data_security_sharing_rules)
 |:white_check_mark:|9/2/20|[Git and GitHub Basics](https://trailhead.salesforce.com/content/learn/modules/git-and-git-hub-basics)
 |:white_check_mark:|9/2/20|[Set Up Your Lightning Web Components Developer Tools](https://trailhead.salesforce.com/content/learn/projects/set-up-your-lightning-web-components-developer-tools?trailmix_creator_id=joseph&trailmix_slug=ethos-dev-2-tools)
 |:white_check_mark:|9/2/20|[Quick Start: Process Builder](https://trailhead.salesforce.com/content/learn/projects/quickstart-process-builder)
